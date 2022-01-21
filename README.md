@@ -2,7 +2,7 @@
 
 # TaskList_ReactJS_TypeScript
 
-Projeto desenvolvido em ReactJS com TypeScript. Gostei bastante desse desenvolvimento, pois utilizei 'styled-components' para colocar estilos nos componentes e bastante treino de lógica usando eventos. 
+Projeto feito para realizar anotações de tarefas, desenvolvido em ReactJS com TypeScript. Gostei bastante desse desenvolvimento, pois utilizei 'styled-components' para colocar estilos nos componentes e bastante treino de lógica usando eventos. 
 
 ## 📸 Galeria
 
